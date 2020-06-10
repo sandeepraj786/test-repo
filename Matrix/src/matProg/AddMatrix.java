@@ -1,7 +1,7 @@
 package matProg;
 import java.util.Scanner;
 
-public class AddMatrix {
+public class AddMatrix1 {
 
 	int[][] readArray()
 	{
